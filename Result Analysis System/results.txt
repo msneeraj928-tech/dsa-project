@@ -1,0 +1,4 @@
+neeraj|90|78|80
+aditya|50|60|70
+anshu|50|55|60
+hemant|78|70|80
