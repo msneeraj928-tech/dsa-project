@@ -1,4 +1,4 @@
-# dsa-project
+# DSA PROJECT
 # Result Analysis System
 
 A console-based Java application that analyses student results: it calculates total, percentage and grade, finds the topper and class average, and prints a rank list sorted by total marks. Results are saved to a file.
